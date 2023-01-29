@@ -40,12 +40,12 @@ const About = () => {
                             <small>200+ Questions on Leetcode</small>
                         </article>
                     </div>
-                    <p>I am a MERN stack developer
+                    <p>I am a MERN stack developer based in New Delhi, India
                         specializing in React.js, Node.js, express,
                         MongoDB. Worked on full stack projects. Has great knowledge
                         of Data structures and Algorithms
                         and possess good communication
-                        skills.</p>
+                        skills. Some of my hobbies include coding, travelling, playing badminton and chess. </p>
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
                 </div>
